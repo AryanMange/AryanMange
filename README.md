@@ -1,11 +1,11 @@
-<h1 align="center">Aryan Mange</h1>
+<h1 align="center">**Aryan Mange**</h1>
 <p align="center">Software Engineer — I build backend systems that actually run in production, not just in a demo.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanmange">LinkedIn</a> ·
   <a href="https://aryan-mange.vercel.app">Portfolio</a> ·
-  <a href="mailto:[aryanmange.work@gmail.com]">Email</a> ·
-  <a href="[https://drive.google.com/file/d/1NP5zClFcM8VGKwQe2lMOHz8mw_8_j6px/view?usp=drivesdk]">Resume</a>
+  <a href="mailto:aryanmange.work@gmail.com">Email</a> ·
+  <a href="https://drive.google.com/file/d/1NP5zClFcM8VGKwQe2lMOHz8mw_8_j6px/view?usp=drivesdk">Resume</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Right now I'm building **ApnaScheme** end to end (backend, WhatsApp bot logic, p
 
 ### What I'm currently doing
 
-- 🎯 Interviewing for **SDE / New Grad SDE roles**, targeting big tech
+- 🎯 Interviewing for **SDE / New Grad SWE roles**, targeting big tech
 - 🏛️ Building **ApnaScheme** solo — architecture, backend, and integrations
 - 🌱 Picking up a frontend framework (React) to close the full-stack loop
 
@@ -37,26 +37,24 @@ I'm not going to list every tool I've opened once — this is what I can build w
 
 ### Projects
 
-**🏛️ ApnaScheme** — [https://apnascheme-websitee.vercel.app/] 
+**🏛️ ApnaScheme** — [live](https://apnascheme-websitee.vercel.app/)
 A WhatsApp-based platform that helps people discover government welfare schemes in their own language, with Razorpay payments built in for scheme-related fees.
 - Built the WhatsApp bot conversation flow and backend in Node.js/Express
 - Integrated Razorpay for payments, handling **webhook verification**
-- Supports **4 languages** and **1999+schemes** as of now
+- Supports **[X] languages** and **[X] schemes** as of now
 - Why it matters: most government scheme discovery tools assume literacy in English and a browser — this doesn't
-[
-**🔧 ZIRO Designer (Open Source Contribution)** — [(https://www.ziroeda.com/)] ·[https://github.com/ZiroEDA/ziro-designer.git]
+
+**🔧 ZIRO Designer (Open Source Contribution)** — [repo](https://github.com/ZiroEDA/ziro-designer.git)
 Contributed backend features and fixes to a browser-native PCB design tool during my internship at ZIRO EDA.
-- Built/fixed **Discord server Redirection Link**
+- Built/fixed **Discord Redirection Link**
 - Worked directly with the core team's existing API conventions and codebase, not a greenfield sandbox
 
-*(Have another project — even a small one? A second real project beats a "coming soon" comment. Pin it here.)*
-
----
 
 ### How to reach me
 
-I reply fastest on [https://www.linkedin.com/in/aryanmange]. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
+I reply fastest on [LinkedIn / Email — pick one and lead with it]. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
 
-📧 **[aryanmange.work@gmail.com]**
+📧 **[aryanmange.work@gmail.com](mailto:aryanmange.work@gmail.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/aryanmange)**
 🌐 **[Portfolio](https://aryan-mange.vercel.app)**
+📄 **[Resume](https://drive.google.com/file/d/1NP5zClFcM8VGKwQe2lMOHz8mw_8_j6px/view?usp=drivesdk)**
