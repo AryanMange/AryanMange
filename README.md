@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanmange">LinkedIn</a> ·
   <a href="https://aryan-mange.vercel.app">Portfolio</a> ·
-  <a href="mailto:[YOUR_EMAIL]">Email</a> ·
-  <a href="[LINK_TO_RESUME]">Resume</a>
+  <a href="mailto:[aryanmange.work@gmail.com]">Email</a> ·
+  <a href="[https://drive.google.com/file/d/1NP5zClFcM8VGKwQe2lMOHz8mw_8_j6px/view?usp=drivesdk]">Resume</a>
 </p>
 
 ---
