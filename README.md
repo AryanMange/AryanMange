@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanmange">LinkedIn</a> ·
   <a href="https://aryan-mange.vercel.app">Portfolio</a> ·
-  <a href="mailto:aryanmange.work@gmail.com">Email</a> ·
   <a href="https://drive.google.com/file/d/1NP5zClFcM8VGKwQe2lMOHz8mw_8_j6px/view?usp=drivesdk">Resume</a>
 </p>
 
@@ -52,7 +51,7 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 
 ### How to reach me
 
-I reply fastest on [LinkedIn / Email — pick one and lead with it]. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
+I reply fastest on [LinkedIn]. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
 
 📧 **[aryanmange.work@gmail.com](mailto:aryanmange.work@gmail.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/aryanmange)**
