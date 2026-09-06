@@ -1,4 +1,4 @@
-<h1 align="center">**Aryan Mange**</h1>
+<h1 align="center">Aryan Mange</h1>
 <p align="center">Software Engineer — I build backend systems that actually run in production, not just in a demo.</p>
 
 <p align="center">
