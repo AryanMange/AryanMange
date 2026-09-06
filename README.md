@@ -51,7 +51,7 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 
 ### How to reach me
 
-I reply fastest on [LinkedIn]. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
+I reply fastest on LinkedIn. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
 
 📧 **[aryanmange.work@gmail.com](mailto:aryanmange.work@gmail.com)**
 💼 **[LinkedIn](https://www.linkedin.com/in/aryanmange)**
