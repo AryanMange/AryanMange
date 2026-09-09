@@ -46,7 +46,7 @@ I'm not going to list every tool I've opened once — this is what I can build w
 A WhatsApp-based platform that helps people discover government welfare schemes in their own language, with Razorpay payments built in for scheme-related fees.
 - Built the WhatsApp bot conversation flow and backend in Node.js/Express
 - Integrated Razorpay for payments, handling **webhook verification**
-- Supports **[X] languages** and **[X] schemes** as of now
+- Supports **4 languages** and **1999 schemes** as of now
 - Why it matters: most government scheme discovery tools assume literacy in English and a browser — this doesn't
 
 **🔧 ZIRO Designer (Open Source Contribution)** — [repo](https://github.com/ZiroEDA/ziro-designer.git)
