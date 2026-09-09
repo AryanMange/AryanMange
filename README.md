@@ -22,13 +22,12 @@ Right now I'm building **ApnaScheme** end to end (backend, WhatsApp bot logic, p
 - 🎯 Interviewing for **SDE / New Grad SWE roles**, targeting big tech
 - 🏛️ Building **ApnaScheme** solo — architecture, backend, and integrations
 - 🌱 Picking up a frontend framework (React) to close the full-stack loop
+- 
+### 🧰 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,python,java,c,mysql,mongodb,git,github,postman,vscode" />
+</p>
 
-### Tech I actually use
-
-**Languages:** JavaScript, Python, Java, C
-**Backend:** Node.js, Express, REST API design
-**Data:** MySQL, MongoDB
-**Tools:** Git/GitHub, Postman, VS Code
 
 I'm not going to list every tool I've opened once — this is what I can build with and defend in an interview.
 
