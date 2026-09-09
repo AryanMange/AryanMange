@@ -24,7 +24,7 @@ I spent 7 weeks at **ZIRO EDA** (IIT Madras Nirmaan-incubated) working on the ba
 Right now I'm building **ApnaScheme** end to end (backend, WhatsApp bot logic, payments) and sharpening data structures & algorithms for SDE interviews.
 
 ### What I'm currently doing
-- 🏛️ Building **ApnaScheme**, a WhatsApp-based platform that helps people discover government schemes in multiple languages, with Razorpay payments built in
+- 🏛️ Building **ApnaScheme**, a WhatsApp-based platform that helps people discover government schemes in multiple languages, with Razorpay payments in 120 seconds
 - 🎯 Interviewing for **SDE roles**, targeting big tech
 - 🌱 Actively learning frontend frameworks to round out my full-stack skill set
 - ⚡ Fun fact: I like building software that actually solves real life problems
