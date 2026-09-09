@@ -48,8 +48,18 @@ A WhatsApp-based platform that helps people discover government welfare schemes 
 - Integrated Razorpay for payments, handling **webhook verification**
 - Supports **4 languages** and **1999 schemes** as of now
 - Why it matters: most government scheme discovery tools assume literacy in English and a browser — this doesn't
-  
 
+**🛡️ GovSentinel-Al based public sentiment monitoring system**
+A real-time public sentiment monitoring platform that helps governance teams track, cluster, and analyze civic discourse across social media to identify emerging public issues.
+
+Fine-tuned DistilBERT and RoBERTa for governance-focused sentiment classification; applied BERTopic for unsupervised civic topic discovery
+
+Built an automated data pipeline using PRAW and FastAPI, fetching and processing live Reddit posts every 15 seconds
+
+Designed an interactive React dashboard to visualize real-time sentiment distribution, temporal trends, and dynamic topic clusters
+
+Why it matters: citizen feedback moves faster than traditional surveys — this surfaces critical governance pain points and public shifts in near real-time
+  
 **🔧 ZIRO Designer (Open Source Contribution)** — [repo](https://github.com/ZiroEDA/ziro-designer.git)
 Contributed backend features and fixes to a browser-native PCB design tool during my internship at ZIRO EDA.
 - Built/fixed **Discord Redirection Link**
