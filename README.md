@@ -13,7 +13,7 @@
 
 ---
 
-### About me
+### 👨‍💻 About me
 
 - Final-year Engineering student at Vidyalankar Institute of Technology, Mumbai (graduating **2027**).
 
@@ -23,7 +23,7 @@
 
 - Right now I'm building **ApnaScheme** end to end (backend, WhatsApp bot logic, payments) and sharpening data structures & algorithms for SDE interviews.
 
-### What I'm currently doing
+### 🛠️ What I'm currently doing
 - 🏛️ Building **ApnaScheme**, a WhatsApp-based platform that helps people discover government schemes in multiple languages, with Razorpay payments in 120 seconds
 - 🎯 Interviewing for **SDE roles**, targeting big tech
 - 🌱 Actively learning frontend frameworks to round out my full-stack skill set
@@ -76,7 +76,7 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 
 ---
 
-### Let's Build Something Useful
+### 🤝 Let's Build Something Useful
 
 I reply fastest on LinkedIn. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
 
