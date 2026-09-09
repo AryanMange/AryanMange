@@ -54,6 +54,25 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 - Built/fixed **Discord Redirection Link**
 - Worked directly with the core team's existing API conventions and codebase, not a greenfield sandbox
 
+### 💻 Terminal
+<div align="center">
+
+<h4><code>aryan@github  ./contributions.sh</code></h4>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h4><code>aryan@github </code></h4>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ### How to reach me
 
