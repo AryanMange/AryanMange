@@ -59,7 +59,7 @@ A WhatsApp-based platform that helps people discover government welfare schemes 
   
 **🔧 ZIRO Designer (Open Source Contribution)** — [repo](https://github.com/ZiroEDA/ziro-designer.git)
 Contributed backend features and fixes to a browser-native PCB design tool during my internship at ZIRO EDA.
-- Built/fixed **Discord Redirection Link**
+- Fixed **Discord Redirection Link**
 - Worked directly with the core team's existing API conventions and codebase, not a greenfield sandbox
 
 
