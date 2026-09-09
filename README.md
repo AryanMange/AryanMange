@@ -15,13 +15,13 @@
 
 ### About me
 
-Final-year Engineering student at Vidyalankar Institute of Technology, Mumbai (graduating **2027**).
+- Final-year Engineering student at Vidyalankar Institute of Technology, Mumbai (graduating **2027**).
 
-I like software that solves problems for people who aren't developers — my grandmother should be able to use it, not just a terminal.
+- I like software that solves problems for people who aren't developers — my grandmother should be able to use it, not just a terminal.
 
-I spent 7 weeks at **ZIRO EDA** (IIT Madras Nirmaan-incubated) working on the backend for **ZIRO Designer**, an open-source browser-native PCB design tool. I shipped REST APIs, integrated third-party services, and fixed bugs in a live open-source codebase used by real engineers — not a sandboxed intern project.
+- I spent 7 weeks at **ZIRO EDA** (IIT Madras Nirmaan-incubated) working on the backend for **ZIRO Designer**, an open-source browser-native PCB design tool. I shipped REST APIs, integrated third-party services, and fixed bugs in a live open-source codebase used by real engineers — not a sandboxed intern project.
 
-Right now I'm building **ApnaScheme** end to end (backend, WhatsApp bot logic, payments) and sharpening data structures & algorithms for SDE interviews.
+- Right now I'm building **ApnaScheme** end to end (backend, WhatsApp bot logic, payments) and sharpening data structures & algorithms for SDE interviews.
 
 ### What I'm currently doing
 - 🏛️ Building **ApnaScheme**, a WhatsApp-based platform that helps people discover government schemes in multiple languages, with Razorpay payments in 120 seconds
