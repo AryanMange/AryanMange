@@ -1,7 +1,7 @@
 <h1 align="center">Aryan Mange</h1>
 <p align="center">Software Engineer — I build backend systems that actually run in production, not just in a demo.</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Final-Year+Engineer+%40+VIT+Mumbai;%2F+Software+Development;Building+ApnaScheme+%E2%80%94+on+WhatsApp;Open+to+SWE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Final-Year+Engineering+Student+%40+VIT+Mumbai;%2F+Software+Developer;Building+ApnaScheme+%E2%80%94+on+WhatsApp;Open+to+SDE+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 </p>
 
 
