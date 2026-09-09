@@ -68,7 +68,7 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 
 ---
 
-### How to reach me
+### Let's Build Something Useful
 
 I reply fastest on LinkedIn. If you're hiring for an SDE role or just want to talk about ApnaScheme, my inbox is open.
 
