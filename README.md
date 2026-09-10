@@ -68,7 +68,7 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 *20 May 2026 – 6 July 2026*  
 *Hardware design software startup building modern tools and intelligent engineering systems for PCB design.*
 
-- **Production Navigation:** Debugged and resolved broken navigation flows on the live website, restoring critical page redirection and enhancing key user journeys.
+- **Production Navigation:** Debugged and resolved broken navigation Discord Button on the live website, restoring critical page redirection and enhancing key user journeys.
 - **Site Maintenance:** Maintained the production website by executing routine content updates, link integrity fixes, and data schema updates as the product evolved.
 - **Cross-Functional Collaboration:** Partnered closely with core engineers on a live PCB-design software product, gaining direct hands-on exposure to hardware engineering workflows.
 
