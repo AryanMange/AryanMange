@@ -62,6 +62,16 @@ Contributed backend features and fixes to a browser-native PCB design tool durin
 - Fixed **Discord Redirection Link**
 - Worked directly with the core team's existing API conventions and codebase, not a greenfield sandbox
 
+## 💼 Experience
+
+### **Software Development Intern** — [ZiroEDA](https://ziroeda.com)  
+*20 May 2026 – 6 July 2026*  
+*Hardware design software startup building modern tools and intelligent engineering systems for PCB design.*
+
+- **Production Navigation:** Debugged and resolved broken navigation flows on the live website, restoring critical page redirection and enhancing key user journeys.
+- **Site Maintenance:** Maintained the production website by executing routine content updates, link integrity fixes, and data schema updates as the product evolved.
+- **Cross-Functional Collaboration:** Partnered closely with core engineers on a live PCB-design software product, gaining direct hands-on exposure to hardware engineering workflows.
+
 
 
 <h4><code>aryan@github </code></h4>
